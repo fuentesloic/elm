@@ -1,13 +1,15 @@
 ---
 title: Inscriptions ELM V-34
 description: Liste pour s'inscrire à la session ELM V-34
-image_url: https://github.com/walkingdev/elm/blob/master/media/elm.png?raw=true
+image_url: https://github.com/walkingdev/elm/blob/master/v34/media/elm.png?raw=true
 ---
 
-# Inscriptions
+# **SOLD OUT**
+
+#### Inscriptions
 
 Pour t'inscrire, ajoute tes coordonnées en bas de la liste.  
-Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/elm/blob/master/v34-faq.md)  
+Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/elm/blob/master/v34/faq.md)  
 
 * *nom - prénom - moyens de contact *
 * Langlois - Stéphane - stephane@scopyleft.fr - @langlois_s
@@ -18,4 +20,8 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/elm/blob/m
 * Hahn - Clémentine - @ClementineHahn
 * Prat Homs - Jordi - @jordiprathoms
 * Plaindoux - Didier - @dplaindoux
+<<<<<<< HEAD:v34-inscriptions.md
 * Fuentes - Loïc - @fuentes_loic
+=======
+* Cassaigne - Anthony @acassaigne
+>>>>>>> walkingdev/master:v34/inscriptions.md
